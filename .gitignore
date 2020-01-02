@@ -1,0 +1,9 @@
+soundmanager/
+chromedriver.exe
+email.pkl
+password.pkl
+.ipynb_checkpoints/
+..gitignore.un~
+.gitignore~
+geckodriver.log
+info.py
